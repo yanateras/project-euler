@@ -4,6 +4,8 @@
 
 My solutions for [Project Euler](https://projecteuler.net) in 🐺 [Wolfram Language](https://www.wolfram.com/language/), also known as Mathematica.
 
+If you want to be my friend, here's my friend code: `1086062_YOpW9YjXoXYpJMO5qY5E0EgTf7qs4a2s`
+
 ## Problems
 
 - [Problem 1: Multiples of 3 or 5](problem_001/) ✔️
